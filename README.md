@@ -1,8 +1,8 @@
 # ru-pet-health-qa
 
 **Russian pet-health Q&A corpus with veterinarian-written answers** —
-3 727 question–answer pairs extracted from the vet-reviewed knowledge base
-of the [BioVet](https://bio.vet) clinic network (Moscow, 20 clinics, 24/7,
+3 678 question–answer pairs extracted from the vet-reviewed knowledge base
+of the [BioVet](https://bio.vet) clinic network (Moscow, 21 clinics, 24/7,
 in-house laboratory). Every pair carries a species tag, a category and the
 source URL of the live article it came from.
 
