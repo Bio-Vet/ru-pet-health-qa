@@ -8,7 +8,7 @@ source URL of the live article it came from.
 
 > **Status: 1.0 — vet-reviewed.** All source articles passed veterinary review
 > at publication; a 70-pair control sample was re-reviewed by licensed
-> veterinarians of the BioVet clinic network (Moscow, 20 clinics, 24/7) on
+> veterinarians of the BioVet clinic network (Moscow, 21 clinics, 24/7) on
 > 25 Aug 2026 — 3 corrections found and applied to both the dataset and the
 > source articles.
 
